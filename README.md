@@ -8,7 +8,7 @@ Actividad de Machine Learning implementada con **Scikit-Learn**, **GridSearchCV*
 
 | Archivo | Descripción |
 |---|---|
-| `f1_ml_pipeline.ipynb` | Notebook principal con todo el flujo de ML |
+| `f1_pipeline.ipynb` | Notebook principal con todo el flujo de ML |
 | `pipeline_regresion_lineal.pkl` | Pipeline entrenado — predicción de puntos |
 | `pipeline_regresion_logistica.pkl` | Pipeline entrenado — predicción de podio |
 | `requirements.txt` | Dependencias del proyecto |
